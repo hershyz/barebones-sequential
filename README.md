@@ -1,5 +1,5 @@
 # barebones-sequential
-Performance-oriented sequential neural networks and ML-tuned dataframes in < 350 lines of pure C++.
+Barebones sequential neural networks and dataframes in < 350 lines of pure C++.
 
 <br>
 
@@ -76,13 +76,4 @@ cout << "-------" << endl;
 vector<double> setosa = {5.1, 3.5, 1.4, 0.2};
 normalize1D(setosa, columnMeans);
 cout << nn.predict(setosa) << endl;
-```
-
-<br>
-
-### Compilation:
-```
-Compiler:  Command:
-clang++    clang++ -std=c++17 Main.cpp
-g++        g++ -std=c++17 Main.cpp
 ```
