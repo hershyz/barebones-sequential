@@ -43,10 +43,6 @@ Output:
 
 <br>
 
-### Diagram:
-<img src="https://raw.githubusercontent.com/hershyz/barebones-sequential/main/diagram.png" width="750px"/>
-
-<br>
 
 ### Example Usage w/ Dataframes:
 ```C++
